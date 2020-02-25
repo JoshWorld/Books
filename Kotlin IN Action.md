@@ -1,6 +1,6 @@
 # Kotlin IN Action
 
-![]("images/Kotlin IN Action.jpg")
+![image](http://image.yes24.com/goods/55148593/400x0)
 
 ## Index
 
