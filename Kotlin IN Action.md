@@ -1,5 +1,9 @@
 # Kotlin IN Action
 
+![]("images/Kotlin IN Action.jpg")
+
+## Index
+
 - [ ] 1부 코틀린 소개
     - [x] 1장 코틀린이란 무엇이며, 왜 필요한가?
     - [x] 2장 코틀린 기초
