@@ -1,6 +1,6 @@
 # Kotlin IN Action
 
-![image](http://image.yes24.com/goods/55148593/400x0)
+![image](http://image.yes24.com/goods/55148593/200x0)
 
 ## Index
 
