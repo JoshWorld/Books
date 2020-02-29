@@ -6,6 +6,7 @@
 * 인사이트(insight)
 * 2019년 8월 20일
 * 원제 : Clean Architecture : A Craftman's Guide to Software Structure and Design
+* Rating : :disappointed: 
 
 ![image](http://image.yes24.com/goods/77283734/200x0)
 
