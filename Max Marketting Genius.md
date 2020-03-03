@@ -4,7 +4,7 @@
 * 위즈덤하우스
 * 2003년 10월 21일
 
-![image](http://image.yes24.com/momo/TopCate11/MidCate01/1000087.jpg|width=200)
+<img src="http://image.yes24.com/momo/TopCate11/MidCate01/1000087.jpg" width="200"/>
 
 ## Index
 
