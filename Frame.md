@@ -6,7 +6,7 @@
 * 21세기북스
 * 2016년 09월 01일
 
-<img src="http://image.yes24.com/goods/30872852/400x0"/>
+<img src="http://image.yes24.com/goods/30872852/200x0"/>
 
 ## Index
 
