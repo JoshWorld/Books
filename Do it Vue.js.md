@@ -7,7 +7,7 @@
 * 이지스퍼블리싱 
 * 2018년 02월 05일
 
-<img src="http://image.yes24.com/goods/58206961/200x0 "/>
+<img src="http://image.yes24.com/goods/58206961/200x0"/>
 
 ## Index
 
