@@ -10,13 +10,12 @@
 
 ## Index
 
-- [ ] 01 Vue.js 소개
-- [ ] CHAPTER 01 시작하기
-- [ ] CHAPTER 02 Vue.js 기초
-- [ ] CHAPTER 03 Vue 인스턴스
-- [ ] CHAPTER 04 이벤트 처리
-- [ ] CHAPTER 05 스타일
-- [ ] CHAPTER 06 컴포넌트 기초
+- [x] CHAPTER 01 시작하기
+- [x] CHAPTER 02 Vue.js 기초
+- [x] CHAPTER 03 Vue 인스턴스
+- [x] CHAPTER 04 이벤트 처리
+- [x] CHAPTER 05 스타일
+- [x] CHAPTER 06 컴포넌트 기초
 - [ ] CHAPTER 07 ECMAScript 2015
 - [ ] CHAPTER 08 Vue CLI 도구
 - [ ] CHAPTER 09 컴포넌트 심화
