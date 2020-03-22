@@ -16,8 +16,8 @@
 - [x] CHAPTER 04 이벤트 처리
 - [x] CHAPTER 05 스타일
 - [x] CHAPTER 06 컴포넌트 기초
-- [ ] CHAPTER 07 ECMAScript 2015
-- [ ] CHAPTER 08 Vue CLI 도구
+- [x] CHAPTER 07 ECMAScript 2015
+- [x] CHAPTER 08 Vue CLI 도구
 - [ ] CHAPTER 09 컴포넌트 심화
 - [ ] CHAPTER 10 axios를 이용한 서버통신
 - [ ] CHAPTER 11 Vuex를 이용한 상태 관리
