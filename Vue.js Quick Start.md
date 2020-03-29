@@ -22,4 +22,4 @@
 - [x] CHAPTER 10 axios를 이용한 서버통신
 - [x] CHAPTER 11 Vuex를 이용한 상태 관리
 - [x] CHAPTER 12 vue-router를 이용한 라우팅
-- [ ] CHAPTER 13 트랜지션 효과
+- [x] CHAPTER 13 트랜지션 효과
