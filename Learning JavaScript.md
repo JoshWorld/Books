@@ -8,7 +8,7 @@ ES6로 제대로 입문하는 모던 자바스크립트 웹 개발
 
 <img src="http://image.yes24.com/goods/42806896/300x0"/>
 
-## Index
+## Table of Contents
 
 - [x] CHAPTER 1 첫 번째 애플리케이션
 - [x] CHAPTER 2 자바스크립트 개발 도구
